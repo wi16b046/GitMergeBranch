@@ -16,6 +16,8 @@ namespace GitMergeBranch
 
             //trottel 
             //another one
+
+            //Burger
         }
 
         private void ChangeInMaster()
