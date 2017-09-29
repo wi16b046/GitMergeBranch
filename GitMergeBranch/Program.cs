@@ -13,6 +13,9 @@ namespace GitMergeBranch
             //Change in master
 
             //Change in Branchy
+
+            //trottel 
+            //another one
         }
 
         private void ChangeInMaster()
